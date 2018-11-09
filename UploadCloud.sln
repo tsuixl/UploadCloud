@@ -1,0 +1,48 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upload", "upload\upload.csproj", "{F1FBA7EC-53F9-4C47-9F07-45BA2810266D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aliyun-oss-sdk-dotnetcore", "sdk\aliyun-oss-sdk-dotnetcore.csproj", "{718BED7F-DC9F-4F3D-9777-2A0825209E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1FBA7EC-53F9-4C47-9F07-45BA2810266D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FBA7EC-53F9-4C47-9F07-45BA2810266D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FBA7EC-53F9-4C47-9F07-45BA2810266D}.Debug|x64.ActiveCfg = Debug|x64
+		{F1FBA7EC-53F9-4C47-9F07-45BA2810266D}.Debug|x64.Build.0 = Debug|x64
+		{F1FBA7EC-53F9-4C47-9F07-45BA2810266D}.Debug|x86.ActiveCfg = Debug|x86
+		{F1FBA7EC-53F9-4C47-9F07-45BA2810266D}.Debug|x86.Build.0 = Debug|x86
+		{F1FBA7EC-53F9-4C47-9F07-45BA2810266D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FBA7EC-53F9-4C47-9F07-45BA2810266D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1FBA7EC-53F9-4C47-9F07-45BA2810266D}.Release|x64.ActiveCfg = Release|x64
+		{F1FBA7EC-53F9-4C47-9F07-45BA2810266D}.Release|x64.Build.0 = Release|x64
+		{F1FBA7EC-53F9-4C47-9F07-45BA2810266D}.Release|x86.ActiveCfg = Release|x86
+		{F1FBA7EC-53F9-4C47-9F07-45BA2810266D}.Release|x86.Build.0 = Release|x86
+		{718BED7F-DC9F-4F3D-9777-2A0825209E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718BED7F-DC9F-4F3D-9777-2A0825209E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718BED7F-DC9F-4F3D-9777-2A0825209E8D}.Debug|x64.ActiveCfg = Debug|x64
+		{718BED7F-DC9F-4F3D-9777-2A0825209E8D}.Debug|x64.Build.0 = Debug|x64
+		{718BED7F-DC9F-4F3D-9777-2A0825209E8D}.Debug|x86.ActiveCfg = Debug|x86
+		{718BED7F-DC9F-4F3D-9777-2A0825209E8D}.Debug|x86.Build.0 = Debug|x86
+		{718BED7F-DC9F-4F3D-9777-2A0825209E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718BED7F-DC9F-4F3D-9777-2A0825209E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{718BED7F-DC9F-4F3D-9777-2A0825209E8D}.Release|x64.ActiveCfg = Release|x64
+		{718BED7F-DC9F-4F3D-9777-2A0825209E8D}.Release|x64.Build.0 = Release|x64
+		{718BED7F-DC9F-4F3D-9777-2A0825209E8D}.Release|x86.ActiveCfg = Release|x86
+		{718BED7F-DC9F-4F3D-9777-2A0825209E8D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

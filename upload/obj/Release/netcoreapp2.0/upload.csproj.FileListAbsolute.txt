@@ -1,0 +1,13 @@
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/upload.deps.json
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/upload.runtimeconfig.json
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/upload.runtimeconfig.dev.json
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/upload.dll
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/upload.pdb
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/Aliyun.OSS.Core.dll
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/Aliyun.OSS.Core.pdb
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/Aliyun.OSS.Core.xml
+/Users/cc/github/UploadCloud/upload/obj/Release/netcoreapp2.0/upload.csproj.CoreCompileInputs.cache
+/Users/cc/github/UploadCloud/upload/obj/Release/netcoreapp2.0/upload.AssemblyInfoInputs.cache
+/Users/cc/github/UploadCloud/upload/obj/Release/netcoreapp2.0/upload.AssemblyInfo.cs
+/Users/cc/github/UploadCloud/upload/obj/Release/netcoreapp2.0/upload.dll
+/Users/cc/github/UploadCloud/upload/obj/Release/netcoreapp2.0/upload.pdb

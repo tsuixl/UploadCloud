@@ -1,0 +1,16 @@
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/win-x64/hostpolicy.dll
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/win-x64/hostfxr.dll
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/win-x64/upload.exe
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/win-x64/upload.deps.json
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/win-x64/upload.runtimeconfig.json
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/win-x64/upload.runtimeconfig.dev.json
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/win-x64/upload.dll
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/win-x64/upload.pdb
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/win-x64/Aliyun.OSS.Core.dll
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/win-x64/Aliyun.OSS.Core.pdb
+/Users/cc/github/UploadCloud/upload/bin/Release/netcoreapp2.0/win-x64/Aliyun.OSS.Core.xml
+/Users/cc/github/UploadCloud/upload/obj/Release/netcoreapp2.0/win-x64/upload.csproj.CoreCompileInputs.cache
+/Users/cc/github/UploadCloud/upload/obj/Release/netcoreapp2.0/win-x64/upload.AssemblyInfoInputs.cache
+/Users/cc/github/UploadCloud/upload/obj/Release/netcoreapp2.0/win-x64/upload.AssemblyInfo.cs
+/Users/cc/github/UploadCloud/upload/obj/Release/netcoreapp2.0/win-x64/upload.dll
+/Users/cc/github/UploadCloud/upload/obj/Release/netcoreapp2.0/win-x64/upload.pdb

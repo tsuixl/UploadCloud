@@ -1,0 +1,12 @@
+/Users/cc/github/UploadCloud/sdk/bin/Release/netstandard2.0/win-x64/Aliyun.OSS.Core.deps.json
+/Users/cc/github/UploadCloud/sdk/bin/Release/netstandard2.0/win-x64/Aliyun.OSS.Core.dll
+/Users/cc/github/UploadCloud/sdk/bin/Release/netstandard2.0/win-x64/Aliyun.OSS.Core.pdb
+/Users/cc/github/UploadCloud/sdk/bin/Release/netstandard2.0/win-x64/Aliyun.OSS.Core.xml
+/Users/cc/github/UploadCloud/sdk/obj/Release/netstandard2.0/win-x64/Aliyun.OSS.Domain.OssResources.resources
+/Users/cc/github/UploadCloud/sdk/obj/Release/netstandard2.0/win-x64/Aliyun.OSS.Properties.Resources.resources
+/Users/cc/github/UploadCloud/sdk/obj/Release/netstandard2.0/win-x64/aliyun-oss-sdk-dotnetcore.csproj.GenerateResource.Cache
+/Users/cc/github/UploadCloud/sdk/obj/Release/netstandard2.0/win-x64/aliyun-oss-sdk-dotnetcore.csproj.CoreCompileInputs.cache
+/Users/cc/github/UploadCloud/sdk/obj/Release/netstandard2.0/win-x64/aliyun-oss-sdk-dotnetcore.AssemblyInfoInputs.cache
+/Users/cc/github/UploadCloud/sdk/obj/Release/netstandard2.0/win-x64/aliyun-oss-sdk-dotnetcore.AssemblyInfo.cs
+/Users/cc/github/UploadCloud/sdk/obj/Release/netstandard2.0/win-x64/Aliyun.OSS.Core.dll
+/Users/cc/github/UploadCloud/sdk/obj/Release/netstandard2.0/win-x64/Aliyun.OSS.Core.pdb
