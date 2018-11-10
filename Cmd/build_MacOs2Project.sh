@@ -11,4 +11,4 @@ cp Cmd/run.sh upload/Publish/Osx64/run.sh
 chmod 777 upload/Publish/Osx64/run.sh
 
 
-cp -r -p upload/Publish/Osx64 /Users/cc/Documents/eyu/slg/xfiles/client/tools/upload/Osx64
+cp -r -p upload/Publish/Osx64 /Users/cc/Documents/eyu/slg/xfiles/client/tools/upload

@@ -53,9 +53,13 @@ namespace Common
             {
                 UploadFileName = LocalFileName.Replace (rootLocalPath, string.Empty);
             }
-            else
+            else if (!string.IsNullOrEmpty(rootLocalPath))
             {
                 UploadFileName = string.Format("{0}/{1}", uploadPath, LocalFileName.Replace (rootLocalPath, string.Empty)) ;
+            }
+            else
+            {
+                UploadFileName = uploadPath;
             }
 
             Log.l (string.Format("UploadFileName {0}", UploadFileName));

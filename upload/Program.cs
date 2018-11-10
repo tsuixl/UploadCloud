@@ -12,26 +12,15 @@ namespace upload
     {
         static void Main(string[] args)
         {
-            // Console.WriteLine("Hello World!");
-            // OssClient client = new OssClient(endpoint, accessKeyId, accessKeySecret);    
-            // var buckets = client.ListBuckets();
-            
-            // foreach (var bucket in buckets) 
-            // {
-            //     Console.WriteLine(bucket.Name + ", " + bucket.Location + ", " + bucket.Owner);
-            // }
+            //Oss clongame-slg-patches /Users/cc/github/UploadCloud/TestFile/version.moe TestFile/version.bytes
+            // args = new string[] { 
+            //     "Oss", 
+            //     "clongame-slg-patches", 
+            //     "/Users/cc/github/UploadCloud/TestFile", 
+            //     "TestFile"
+            // };
 
-            // OssTest();
-
-            // string jsonStr = "{\"Type\":\"Oss\", \"OssBucketName\":\"clongame-slg-patches\", \"UploadPath\":\"TestFile\", \"LocalPath\":\"/Users/cc/github/UploadCloud/TestFile\" }";
-            // if (args.Length <= 0 )
-            // {
-            //     args = new string[] {jsonStr};
-            // }
-
-
-            System.Console.WriteLine (JsonConvert.SerializeObject(args));
-
+            // Console.WriteLine (System.Environment.CurrentDirectory);
 
             if (args.Length == 1)
             {
@@ -43,7 +32,7 @@ namespace upload
                 ArgsData argsData = new ArgsData();
                 if (argsData.TryParseLine (args))
                 {
-                    System.Console.WriteLine (JsonConvert.SerializeObject(argsData));
+                    System.Console.WriteLine (JsonConvert.SerializeObject(argsData, Formatting.Indented));
                     Start (argsData);
                 }
             }

@@ -1,3 +1,4 @@
+using System.IO;
 using System.Collections.Generic;
 
 namespace Util
@@ -26,6 +27,11 @@ namespace Util
 
         public static string AddPathDiagonal (string path)
         {
+            if (Path.GetFileName(path).Contains("."))
+            {
+                return path;
+            }
+
             if (!path.EndsWith("/"))
             {
                 return path + "/";

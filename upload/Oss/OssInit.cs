@@ -26,7 +26,12 @@ namespace Oss
         public static OssInit GetDefault (ArgsData data)
         {
             var ossInit = JsonConvert.DeserializeObject<OssInit> (File.ReadAllText("Config/OssConfig.json"));
+            
             ossInit.LocalRootPath = data.LocalPath;
+            if (File.Exists(ossInit.LocalRootPath))
+            {
+                ossInit.LocalRootPath = string.Empty;
+            }
             ossInit.UploadFolder = data.UploadPath;
             ossInit.BucketName = data.OssBucketName;
             return ossInit;

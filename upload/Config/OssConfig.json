@@ -1,0 +1,7 @@
+{
+    "Endpoint" : "http://oss-cn-shenzhen.aliyuncs.com",
+    "AccessKeyId" : "LTAIg5ezba9oiusk",
+    "AccessKeySecret" : "YvQIGvkn1qCkCL5SmxcV11gIFcA1B6",
+    "Md5Checkout" : true,
+    "ConnectionTimeout" : 10000
+}

@@ -109,17 +109,26 @@ public class ArgsData
     public List<string> GetUploadPaths ()
     {
         List<string> result = new List<string>();
-        var paths = Directory.GetDirectories (LocalPath);
-        foreach (var p in paths)
+        if (Directory.Exists(LocalPath))
         {
-            result.Add(p);
+            var paths = Directory.GetDirectories (LocalPath);
+            foreach (var p in paths)
+            {
+                result.Add(p);
+            }
+
+            var files = Directory.GetFiles (LocalPath);
+            foreach (var f in files)
+            {
+                result.Add(f);
+            }
         }
 
-        var files = Directory.GetFiles (LocalPath);
-        foreach (var f in files)
+        if (File.Exists(LocalPath))
         {
-            result.Add(f);
+            result.Add(LocalPath);
         }
+
         return result;
     }
 
