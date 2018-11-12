@@ -61,7 +61,7 @@ namespace Common
             {
                 UploadFileName = uploadPath;
             }
-
+            UploadFileName = UploadFileName.Replace("//", "/");
             Log.l (string.Format("UploadFileName {0}", UploadFileName));
         }
 
